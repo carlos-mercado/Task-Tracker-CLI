@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Task-Tracker-CLI
-Command line task tracker.
-=======
 # Task Tracker CLI
 
 A simple command-line task tracker written in Python. Tasks are stored in a local `tasks.json` file. You can add, update, delete, and list tasks with different statuses.
