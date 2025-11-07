@@ -34,4 +34,5 @@ A simple command-line task tracker written in Python. Tasks are stored in a loca
 
 All tasks are stored in `tasks.json` in the project directory.
 
-https://github.com/carlos-mercado/Task-Tracker-CLI
+[https://github.com/carlos-mercado/Task-Tracker-CLI](https://roadmap.sh/projects/task-tracker)](https://roadmap.sh/projects/task-tracker)
+](https://roadmap.sh/projects/task-tracker)
